@@ -79,7 +79,7 @@
 
 #define CONFIG_RECV_REORDERING_CTRL
 
-#define CONFIG_DFS
+//#define CONFIG_DFS
 
  /* #define CONFIG_SUPPORT_USB_INT */
  #ifdef CONFIG_SUPPORT_USB_INT
